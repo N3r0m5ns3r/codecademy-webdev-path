@@ -1,0 +1,31 @@
+body {
+font-family: Georgia;
+background-color: black;
+color: white;
+}
+.header {
+background-color: CornflowerBlue;
+text-align: center;
+}
+.about-me {
+font-size: 20px;
+opacity: 0.5;
+}
+.title {
+font-weight: bold;
+text-align: center;
+}
+
+h1 {
+color: Azure;
+}
+
+h2 {
+  text-align: center;
+
+}
+
+footer {
+  text-align: center;
+}
+
